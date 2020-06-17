@@ -1,4 +1,4 @@
-FROM ruby:2.2.4
+FROM ruby:2.7.0
 MAINTAINER @ojacques
 
 RUN gem install bundler rake
